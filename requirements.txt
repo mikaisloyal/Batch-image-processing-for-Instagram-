@@ -1,0 +1,2 @@
+In order to run this script you will need to install a PIL, library by "pip install pillow" command in your terminal.
+The OS library is also used in this code, however, as long as you have a python installed in your PC, no need to install OS seperately, because it is a python build-in library.
