@@ -21,7 +21,7 @@ for img in os.listdir(folder):
         z=y.convert("L")
         z.paste(water, (825 ,700))
 
-        #save an ediited image in the initial image with addition of "editted_" to the name of a file
+        #save an ediited image in the initial folder with addition of "editted_" to the name of a file
         z.save(str("editted_")+img)
         x.close()
 
